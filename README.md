@@ -1,84 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>dexone.pro</title>
-    <link rel="icon" type="image/svg+xml" href="public/logo.svg" />
-</head>
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Delius+Unicase&family=Montserrat+Alternates:wght@200;300&display=swap');
-
-
-    BODY {
-        font-family: 'Montserrat Alternates', sans-serif;
-        background: #eff1f5;
-        color: #4c4f69;
-    }
-
-    A {
-        color: #4c4f69;
-    }
-
-    A:visited {
-        color: #4c4f69;
-    }
-
-    A:active {
-        color: #4c4f69;
-    }
-
-
-    /* 
-
-
-.test{
-    border: solid;
-    border-width: 1px;
-        border-radius: 7px;
-        border-color: rgb(16, 20, 44);
-        display: inline-block;
-        transition: all .1s;
-        position: relative;
-        top: 0;
-        cursor: pointer;
-
-}
-.test:active {
-        top: 3px;
-    }
-
-
-
-    .btn-11 {
-
-        background: #4c4f69;
-        border-radius: 7px;
-        box-shadow: 0px 3px 0px 3px rgb(16, 20, 44);
-        display: inline-block;
-        transition: all .2s;
-        position: relative;
-        padding: 5px 7px;
-        top: 0;
-        cursor: pointer;
-        margin: 0 20px;
-    }
-
-    .btn-11:active {
-        top: 3px;
-        box-shadow: 0 2px 0px #4c4f69;
-    } */
-</style>
-
-
-
-
-
-
-
-<body>
-    <header>
 
 
         <div style="height: 30px; max-width: 970px; margin-left: auto; margin-right: auto;">
@@ -90,7 +10,7 @@
 
         <div style="background-color: #e5e7eb; height: 1px; margin-left: -5px; margin-right: -5px; margin-top: 30px;">
         </div>
-    </header>
+
 
 
 
@@ -265,25 +185,4 @@
         </div>
     </footer>
 
-    <!-- <div class="test">
-        CLICK
-    </div>
-<br>
-<br>
 
-    <div class="btn-11">
-        CLICK
-    </div> -->
-
-
-</body>
-
-
-
-
-
-
-</script>
-
-
-</html>
