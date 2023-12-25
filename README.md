@@ -5,7 +5,8 @@
 
 ## :hammer_and_wrench: Pet projects:
 <b>R&M</b>
-<img src="/public/calendar.png">28.09.2023
+<img src="/public/calendar.png" width="18px"
+                style="float: left; margin-right:4px; font-size: 17px;">28.09.2023
 
         <div
             style=" border-color: RGBA(64, 160, 43, 0.2); border-radius: 3px; border-style: solid; border-width: 1px; color: RGBA(64, 160, 43); font-size: 13px; padding: 4px; width: max-content; display: inline-block; margin-top: 10px;">
