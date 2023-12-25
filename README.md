@@ -4,7 +4,31 @@
 |![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) |![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)| ![TailwindCSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)| ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 
-<div class="be" style="color: red">123</div>
+<div style="font-size: 20px; margin-top: 20px; margin-bottom: 10px;text-decoration: underline;"><b>R&M</b></div>
+        <div><img src="/public/calendar.png" width="18px"
+                style="float: left; margin-right:4px; font-size: 17px;">28.09.2023
+        </div>
+        <div
+            style=" border-color: RGBA(64, 160, 43, 0.2); border-radius: 3px; border-style: solid; border-width: 1px; color: RGBA(64, 160, 43); font-size: 13px; padding: 4px; width: max-content; display: inline-block; margin-top: 10px;">
+            <img src="/public/vue.png" width="15px" style="float: left; margin-right:4px;">Vue.js
+        </div>
+        <div
+            style=" border-color: RGBA(30, 102, 245, 0.2); border-radius: 3px; border-style: solid; border-width: 1px; color: RGBA(30, 102, 245); font-size: 13px; padding: 4px; width: max-content; display: inline-block;">
+            <img src="/public/js.png" width="15px" style="float: left; margin-right:4px;">JavaScript
+        </div>
+        <div
+            style=" border-color: RGBA(223, 142, 29, 0.2); border-radius: 3px; border-style: solid; border-width: 1px; color: RGBA(223, 142, 29); font-size: 13px; padding: 4px; width: max-content; display: inline-block;">
+            <img src="/public/vite.png" width="15px" style="float: left; margin-right:4px;">Vite
+        </div>
+
+<div style=" font-size: 17px; margin-bottom: 10px; margin-top: 10px;">Drawing cards using the api</div>
+
+ <div>
+            <a style="margin-right: 5px;" href="https://dexone.github.io/rick_morty/"><img src="/public/demo.png"
+                    width="60px"></a>
+            <a href="https://github.com/Dexone/rick_morty"><img src="/public/git.png" width="60px"></a>
+        </div>
+        <div style="background-color: #e5e7eb; height: 1px; margin-top: 20px;"></div>
 
 
 
