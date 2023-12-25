@@ -16,4 +16,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## 🛠️ My technology stack:
+f
+f
+f
+f
+f
+f
+f
+f
+f
+f
+f
+f
+f
+f
+f
+f
+
+f
 
