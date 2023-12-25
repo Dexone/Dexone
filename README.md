@@ -7,6 +7,18 @@
 <a href="https://github.com/Dexone/shop"><img src="/git.png" width="60px"></a>
 
 
-<div>123</div>
+        <div>
+            <a href="https://github.com/Dexone"><img src="/public/github.png" width="30px" height="25px"></a>
+            <a href="https://vk.com/id291002761" style="margin-left: 20px;"><img src="/public/vk.png" width="37px"
+                    height="25px"></a>
+            <a href="https://t.me/real_martynov" style="margin-left: 20px;"><img src="/public/telegram.png" width="30px"
+                    height="25px"></a>
+        </div>
+        <div style="margin-top: 10px;">
+            Made with <a style="color: red">❤</a> hosted on <a href="https://pages.github.com/">Github Pages</a>.
+        </div>
+        <div style="margin-top: 10px;">
+            ©2023 — Dima 'Dexone' Martynov.
+        </div>
 
 
