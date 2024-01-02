@@ -7,6 +7,6 @@
 
 
 
-[M.Weather](https://dexone.github.io/M.Weather/) | [RM](https://github.com/Dexone/rick_morty) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
+[M.Weather](https://dexone.github.io/M.Weather/) | [RM](https://github.com/Dexone/rick_morty)
 --- | --- | --- | ---
-<img src="./pics/weather.jpg" /> | <img src="./pics/rm.jpg" />  | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
+<img src="./pics/weather.jpg" /> | <img src="./pics/rm.jpg" />  
