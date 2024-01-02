@@ -7,6 +7,6 @@
 
 
 
-[M.Weather](https://dexone.github.io/M.Weather/) | [RM](https://github.com/Dexone/rick_morty)
---- | --- | --- | ---
-<img src="./pics/weather.jpg" /> | <img src="./pics/rm.jpg" />  
+[M.Weather](https://dexone.github.io/M.Weather/) | [RM](https://github.com/Dexone/rick_morty) |
+--- | --- 
+<img src="./pics/weather.jpg" /> | <img src="./pics/rm.jpg" />  |
