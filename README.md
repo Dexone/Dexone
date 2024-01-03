@@ -31,4 +31,4 @@
 
 
 
-<img src="./pics/we.png" /><img src="./pics/ri.png" />
+<img src="./pics/we.png" /><img src="./pics/ri.png" /><img src="./pics/cr.png" />
