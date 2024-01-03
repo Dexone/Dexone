@@ -25,9 +25,9 @@
 
 ### :placard: Pet projects demo:
 
-[M.Weather](https://dexone.github.io/M.Weather/) | [RM](https://github.com/Dexone/rick_morty) | [Crytpocurrency](https://github.com/Dexone/vue-cryptocurrency) |
+<!-- [M.Weather](https://dexone.github.io/M.Weather/) | [RM](https://github.com/Dexone/rick_morty) | [Crytpocurrency](https://github.com/Dexone/vue-cryptocurrency) |
 --- | --- | ---
-<img src="./pics/weather.jpg" /> | <img src="./pics/rm.jpg" />  |  <img src="./pics/cryptocurrency.jpg" />  |
+<img src="./pics/weather.jpg" /> | <img src="./pics/rm.jpg" />  |  <img src="./pics/cryptocurrency.jpg" />  | -->
 
 
 
