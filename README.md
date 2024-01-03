@@ -1,4 +1,9 @@
 ## :hammer_and_wrench: My technology stack:
+As you can see my name Dima. Nice to meet you. As i remembering myself always was interested in computers and programs. I am studying to be a programmer at the university and I learn programming on my own, with great interest.
+
+
+
+## :hammer_and_wrench: My technology stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
