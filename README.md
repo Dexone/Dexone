@@ -28,8 +28,3 @@
 [M.Weather](https://dexone.github.io/M.Weather/) | [RM](https://github.com/Dexone/rick_morty) | [Crytpocurrency](https://github.com/Dexone/vue-cryptocurrency) |
 --- | --- | ---
 <img src="./pics/weather.jpg" /> | <img src="./pics/rm.jpg" />  |  <img src="./pics/cryptocurrency.jpg" />  |
-
-
-<p align="center"><img src="./pics/weather.jpg" /> </p>
-
-<img src="./pics/weather.jpg" /><img src="./pics/weather.jpg" />
