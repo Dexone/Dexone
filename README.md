@@ -30,4 +30,4 @@
 <img src="./pics/weather.jpg" /> | <img src="./pics/rm.jpg" />  |  <img src="./pics/cryptocurrency.jpg" />  |
 
 
-<img src="./pics/weather.jpg" align="center" />
+<img align="center" src="./pics/weather.jpg" / >
