@@ -38,3 +38,13 @@
  <a href="https://dexone.github.io/M.Weather/">
   <img src="./pics/we.png"/>
   </a> 
+
+
+   <a href="https://dexone.github.io/rick_morty/">
+  <img src="./pics/ri.png"/>
+  </a> 
+
+
+   <a href="https://dexone.github.io/vue-cryptocurrency/">
+  <img src="./pics/cr.png"/>
+  </a> 
