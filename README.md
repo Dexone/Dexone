@@ -35,6 +35,6 @@
 
 
 
- <a href="https://dexone.github.io/M.Weather/">
-  <img src="./pics/we.png"  />
+ <a href="https://dexone.github.io/M.Weather/" target="_blank">
+  <img src="./pics/we.png" alt="alsiam"  />
   </a> 
