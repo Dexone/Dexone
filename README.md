@@ -23,7 +23,7 @@
 
 
 
-### :placard: Pet projects demo:
+### :placard: Pet projects demo (clickable):
 
 <!-- [M.Weather](https://dexone.github.io/M.Weather/) | [RM](https://github.com/Dexone/rick_morty) | [Crytpocurrency](https://github.com/Dexone/vue-cryptocurrency) |
 --- | --- | ---
