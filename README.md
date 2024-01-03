@@ -29,7 +29,7 @@
 --- | --- | ---
 <img src="./pics/weather.jpg" /> | <img src="./pics/rm.jpg" />  |  <img src="./pics/cryptocurrency.jpg" />  | -->
 
-<p align="center">
+<!-- <p align="center"> -->
  <a href="https://dexone.github.io/M.Weather/">
   <img src="./pics/we.png"/>
   </a> 
@@ -43,4 +43,4 @@
    <a href="https://dexone.github.io/vue-cryptocurrency/">
   <img src="./pics/cr.png"/>
   </a> 
-  </p>
+  <!-- </p> -->
