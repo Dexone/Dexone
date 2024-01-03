@@ -31,3 +31,6 @@
 
 
 <p align="center"><img src="./pics/weather.jpg" /> </p>
+
+<img src="./pics/weather.jpg" />
+<img src="./pics/weather.jpg" />
