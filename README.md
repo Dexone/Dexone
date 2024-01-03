@@ -29,6 +29,12 @@
 --- | --- | ---
 <img src="./pics/weather.jpg" /> | <img src="./pics/rm.jpg" />  |  <img src="./pics/cryptocurrency.jpg" />  | -->
 
-
+![WE](https://dexone.github.io/M.Weather/)
 
 <img src="./pics/we.png" /><img src="./pics/ri.png" /><img src="./pics/cr.png" />
+
+
+
+ <a href="https://dexone.github.io/M.Weather/">
+  <img src="./pics/we.png"  />
+  </a> 
