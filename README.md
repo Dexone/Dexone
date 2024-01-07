@@ -1,5 +1,5 @@
 ### :boy: About me:
-#### As you can see my name Dima. Nice to meet you. As i remembering myself always was interested in computers and programs. I am studying to be a programmer at the university and I learn programming on my own, with great interest.
+#### As you can see my name Dima. Nice to meet you. As i remembering myself always was interested in computers and programs. I am studying to be a IT specialist at the Volga State University of Technology and I learn programming on my own, with great interest.
 
 
 
