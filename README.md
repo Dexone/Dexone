@@ -43,4 +43,11 @@
    <a href="https://dexone.github.io/vue-cryptocurrency/">
   <img src="./pics/cr.png"/>
   </a> 
+
+
+
+
+ <a href="https://dexone.github.io/shop/">
+  <img src="./pics/shop.png"/>
+  </a> 
   <!-- </p> -->
