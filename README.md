@@ -43,7 +43,7 @@
   </a> 
 
  <a href="https://dexone.github.io/mweather/">
-  <img height="450" width="230" src="./pics/devicephone.png"/>
+  <img height="246" width="126" src="./pics/devicephone.png"/>
   </a> 
 
 
