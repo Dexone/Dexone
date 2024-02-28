@@ -25,11 +25,11 @@
 <p align="center">
 
 
-   <a  href="https://dexone.github.io/rick_morty/">
+   <a  href="https://dexone.github.io/mweather/">
   <img height="450" width="536" src="./pics/devicepc.png"/>
   </a> 
 
- <a href="https://dexone.github.io/M.Weather/">
+ <a href="https://dexone.github.io/mweather/">
   <img height="450" width="230" src="./pics/devicephone.png"/>
   </a> 
 
