@@ -25,13 +25,31 @@
 <p align="center">
 
 
-   <a  href="https://dexone.github.io/mweather/">
+   <!-- <a  href="https://dexone.github.io/mweather/">
   <img height="450" width="536" src="./pics/devicepc.png"/>
   </a> 
 
  <a href="https://dexone.github.io/mweather/">
   <img height="450" width="230" src="./pics/devicephone.png"/>
+  </a>  -->
+
+
+
+
+
+
+   <a  href="https://dexone.github.io/mweather/">
+  <img height="246" width="293" src="./pics/devicepc.png"/>
   </a> 
+
+ <a href="https://dexone.github.io/mweather/">
+  <img height="450" width="230" src="./pics/devicephone.png"/>
+  </a> 
+
+
+
+
+
 
 
 
