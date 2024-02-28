@@ -26,11 +26,11 @@
 
 
    <a align="center" href="https://dexone.github.io/rick_morty/">
-  <img height="450" src="./pics/devicepc.png"/>
+  <img height="450" width="536" src="./pics/devicepc.png"/>
   </a> 
 
  <a align="center" href="https://dexone.github.io/M.Weather/">
-  <img height="450" src="./pics/devicephone.png"/>
+  <img height="450" width="230" src="./pics/devicephone.png"/>
   </a> 
 
 
