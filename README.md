@@ -23,14 +23,17 @@
 <img src="./pics/weather.jpg" /> | <img src="./pics/rm.jpg" />  |  <img src="./pics/cryptocurrency.jpg" />  | -->
 
 <!-- <p align="center"> -->
- <a href="https://dexone.github.io/M.Weather/">
-  <img height="400" src="./pics/devicephone.png"/>
-  </a> 
 
 
    <a href="https://dexone.github.io/rick_morty/">
-  <img height="400" src="./pics/devicepc.png"/>
+  <img height="500" src="./pics/devicepc.png"/>
   </a> 
+
+ <a href="https://dexone.github.io/M.Weather/">
+  <img height="500" src="./pics/devicephone.png"/>
+  </a> 
+
+
 
 <!-- 
    <a href="https://dexone.github.io/vue-cryptocurrency/">
