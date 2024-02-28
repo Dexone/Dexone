@@ -3,7 +3,7 @@
 
 
 
-### :graduation_cap: Education:
+### :mortar_board: Education:
 #### I am studying to be a IT specialist at the Volga State University of Technology
 
 
