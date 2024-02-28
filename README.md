@@ -39,7 +39,7 @@
 
 <!-- <p align="center"> -->
 
- <a href="https://dexone.github.io/mweather/">
+ <a align="center" href="https://dexone.github.io/mweather/">
   <img height="246" width="126" src="./pics/devicephone.png"/>
   </a> 
 
