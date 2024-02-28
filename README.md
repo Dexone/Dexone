@@ -22,14 +22,14 @@
 --- | --- | ---
 <img src="./pics/weather.jpg" /> | <img src="./pics/rm.jpg" />  |  <img src="./pics/cryptocurrency.jpg" />  | -->
 
-<!-- <p align="center"> -->
+<p align="center">
 
 
-   <a align="center" href="https://dexone.github.io/rick_morty/">
+   <a  href="https://dexone.github.io/rick_morty/">
   <img height="450" width="536" src="./pics/devicepc.png"/>
   </a> 
 
- <a align="center" href="https://dexone.github.io/M.Weather/">
+ <a href="https://dexone.github.io/M.Weather/">
   <img height="450" width="230" src="./pics/devicephone.png"/>
   </a> 
 
@@ -46,4 +46,4 @@
  <a href="https://dexone.github.io/shop/">
   <img src="./pics/shop.png"/>
   </a>  -->
-  <!-- </p> -->
+  </p>
