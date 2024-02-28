@@ -37,14 +37,18 @@
 
 #### mweather: <a href="https://dexone.github.io/mweather/">Demo</a> <a href="https://dexone.github.io/mweather/">[Code](https://github.com/Dexone/mweather)</a>
 
-<p align="center">
-   <a  href="https://dexone.github.io/mweather/">
-  <img height="246" width="293" src="./pics/devicepc.png"/>
-  </a> 
+<!-- <p align="center"> -->
 
  <a href="https://dexone.github.io/mweather/">
   <img height="246" width="126" src="./pics/devicephone.png"/>
   </a> 
+
+
+   <a  href="https://dexone.github.io/mweather/">
+  <img height="246" width="293" src="./pics/devicepc.png"/>
+  </a> 
+
+
 
 
 
@@ -64,4 +68,4 @@
  <a href="https://dexone.github.io/shop/">
   <img src="./pics/shop.png"/>
   </a>  -->
-  </p>
+  <!-- </p> -->
