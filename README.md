@@ -24,12 +24,12 @@
 
 <!-- <p align="center"> -->
  <a href="https://dexone.github.io/M.Weather/">
-  <img width="500" src="./pics/devicephone.png"/>
+  <img width="200" src="./pics/devicephone.png"/>
   </a> 
 
 
    <a href="https://dexone.github.io/rick_morty/">
-  <img width="500" src="./pics/devicepc.png"/>
+  <img width="200" src="./pics/devicepc.png"/>
   </a> 
 
 
