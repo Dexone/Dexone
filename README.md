@@ -44,12 +44,12 @@
 
 
  <a  href="https://dexone.github.io/mweather/">
-  <img height="156" width="80" src="./pics/devicephone.png"/>
+  <img height="170" width="87" src="./pics/devicephone.png"/>
   </a> 
 
 
    <a  href="https://dexone.github.io/mweather/">
-  <img height="187" width="223" src="./pics/devicepc.png"/>
+  <img height="170" width="202" src="./pics/devicepc.png"/>
   </a> 
 
 
