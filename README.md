@@ -29,7 +29,7 @@
 
 
    <a href="https://dexone.github.io/rick_morty/">
-  <img src="./pics/devicepc.png"/>
+  <img  src="./pics/devicepc.png"/>
   </a> 
 
 
