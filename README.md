@@ -3,7 +3,7 @@
 
 
 
-### :graduation cap: Education:
+### :graduationcap: Education:
 #### I am studying to be a IT specialist at the Volga State University of Technology
 
 
