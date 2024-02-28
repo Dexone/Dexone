@@ -4,7 +4,7 @@
 
 
 ### :mortar_board: Education:
-#### I am studying to be a IT specialist at the Volga State University of Technology
+#### Learning as an IT specialist at the Volga State University of Technology
 
 
 
