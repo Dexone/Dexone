@@ -39,14 +39,35 @@
 
 <!-- <p align="center"> -->
 
+
+
+
+
  <a  href="https://dexone.github.io/mweather/">
+  <img height="195" width="100" src="./pics/devicephone.png"/>
+  </a> 
+
+
+   <a  href="https://dexone.github.io/mweather/">
+  <img height="162" width="193" src="./pics/devicepc.png"/>
+  </a> 
+
+
+
+
+
+
+
+
+
+ <!-- <a  href="https://dexone.github.io/mweather/">
   <img height="246" width="126" src="./pics/devicephone.png"/>
   </a> 
 
 
    <a  href="https://dexone.github.io/mweather/">
   <img height="246" width="293" src="./pics/devicepc.png"/>
-  </a> 
+  </a>  -->
 
 
 
