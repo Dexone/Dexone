@@ -22,7 +22,7 @@
 --- | --- | ---
 <img src="./pics/weather.jpg" /> | <img src="./pics/rm.jpg" />  |  <img src="./pics/cryptocurrency.jpg" />  | -->
 
-<p align="center">
+
 
 
    <!-- <a  href="https://dexone.github.io/mweather/">
@@ -37,7 +37,7 @@
 
 #### mweather: <a href="https://dexone.github.io/mweather/">Demo</a> <a href="https://dexone.github.io/mweather/">[Code](https://github.com/Dexone/mweather)</a>
 
-
+<p align="center">
    <a  href="https://dexone.github.io/mweather/">
   <img height="246" width="293" src="./pics/devicepc.png"/>
   </a> 
