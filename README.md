@@ -42,7 +42,7 @@
 
 <!-- #### mweather: <a href="https://dexone.github.io/mweather/">Demo</a> <a href="https://dexone.github.io/mweather/">[Code](https://github.com/Dexone/mweather)</a> -->
 
-### mweather:
+### mweather
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
