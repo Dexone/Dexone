@@ -3,12 +3,12 @@
 
 
 
-### :mortar_board: Education:
+<!-- ### :mortar_board: Education:
 #### Learning as an IT specialist at the Volga State University of Technology
 
 
 
-### :hammer_and_wrench: Technology stack:
+### :hammer_and_wrench: Technology stack: -->
 
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -21,7 +21,7 @@
 
 
 
-### :placard: Pet projects demo:
+<!-- ### :placard: Pet projects demo: -->
 
 <!-- [M.Weather](https://dexone.github.io/M.Weather/) | [RM](https://github.com/Dexone/rick_morty) | [Crytpocurrency](https://github.com/Dexone/vue-cryptocurrency) |
 --- | --- | ---
@@ -40,9 +40,9 @@
 
 
 
-#### mweather: <a href="https://dexone.github.io/mweather/">Demo</a> <a href="https://dexone.github.io/mweather/">[Code](https://github.com/Dexone/mweather)</a>
+<!-- #### mweather: <a href="https://dexone.github.io/mweather/">Demo</a> <a href="https://dexone.github.io/mweather/">[Code](https://github.com/Dexone/mweather)</a> -->
 
-
+### mweather:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
