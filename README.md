@@ -51,26 +51,35 @@
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!-- <p align="center"> -->
-
-
-
-
-
  <a  href="https://dexone.github.io/mweather/">
   <img height="170" width="87" src="./pics/mobilemweather.png"/>
   </a> 
-
 
    <a  href="https://dexone.github.io/mweather/">
   <img height="170" width="202" src="./pics/pcmweather.png"/>
   </a> 
 
 
+  ### :bookmark: nuxt-3-shop
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+ <a  href="http://5.35.98.166/">
+  <img height="170" width="87" src="./pics/mobileshop.png"/>
+  </a> 
+
+   <a  href="http://5.35.98.166/">
+  <img height="170" width="202" src="./pics/pcshop.png"/>
+  </a> 
 
 
 
 
+
+<!-- <p align="center"> -->
 
 
 
