@@ -76,15 +76,15 @@
    <a  href="http://5.35.98.166/">
   <img height="170" width="202" src="./pics/pcshop.png"/>
   </a>  -->
-
-
-   <a  href="http://5.35.98.166/">
-  <img  src="./pics/test.png"/>
+   <a  href="https://dexone.github.io/mweather/">
+  <img  src="./pics/mweather.png"/>
   </a> 
 
    <a  href="http://5.35.98.166/">
-  <img  src="./pics/test.png"/>
+  <img  src="./pics/nuxt-3-shop.png"/>
   </a> 
+
+
 
 
 <!-- <p align="center"> -->
