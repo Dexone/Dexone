@@ -44,7 +44,7 @@
 
 <!-- ## Pet projects demo -->
 
-### :bookmark: mweather
+<!-- ### :bookmark: mweather
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -75,13 +75,16 @@
 
    <a  href="http://5.35.98.166/">
   <img height="170" width="202" src="./pics/pcshop.png"/>
-  </a> 
+  </a>  -->
 
 
    <a  href="http://5.35.98.166/">
   <img  src="./pics/test.png"/>
   </a> 
 
+   <a  href="http://5.35.98.166/">
+  <img  src="./pics/test.png"/>
+  </a> 
 
 
 <!-- <p align="center"> -->
