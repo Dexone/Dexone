@@ -2,10 +2,10 @@
 #### Demo
 
    <a  href="https://dexone.github.io/mweather/">
-  <img width="424px" src="./pics/mweather.png"/>
+  <img width="423px" src="./pics/mweather.png"/>
   </a> 
 
    <a  href="http://5.35.98.166/">
-  <img width="424px"  src="./pics/nuxt-3-shop.png"/>
+  <img width="423px"  src="./pics/nuxt-3-shop.png"/>
   </a> 
 
