@@ -6,6 +6,6 @@
   </a> 
 
    <a  href="http://5.35.98.166/">
-  <img  src="./pics/nuxt-3-shop.png"/>
+  <img  src="./pics/nuxt-3-shop1.png"/>
   </a> 
 
