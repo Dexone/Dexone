@@ -23,7 +23,9 @@
 
 
 <!-- <div align="center"> -->
-https://www.codewars.com/users/martynovv/badges/large
+
+![JavaScript](https://www.codewars.com/users/martynovv/badges/large)
+
 ### Technology stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
