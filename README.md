@@ -22,7 +22,7 @@
 
 
 
-<!-- <div align="center"> -->
+ <div align="center">
 
 ![JavaScript](https://www.codewars.com/users/martynovv/badges/large)
 
@@ -45,4 +45,4 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<!-- </div> -->
+ </div>
