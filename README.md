@@ -24,7 +24,7 @@
 
  <div align="center">
 
-
+![Codewars](https://www.codewars.com/users/martynovv/badges/large)
 
 ### Technology stack
 
@@ -46,6 +46,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-![Codewars](https://www.codewars.com/users/martynovv/badges/large)
+
 
  </div>
