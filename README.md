@@ -46,6 +46,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-![JavaScript](https://www.codewars.com/users/martynovv/badges/large)
+![JavaScript](https://www.codewars.com/users/martynovv/badges/small)
 
  </div>
